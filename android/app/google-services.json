@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90088105420",
+    "project_id": "learning-app-da971",
+    "storage_bucket": "learning-app-da971.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90088105420:android:b32de9da84e19829ef2969",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90088105420-4fuehgge4u79jp0u7e46473va8v3j7qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTeRen8LAbpT4KUSIrIcZLdtz2j0aYoJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90088105420-4fuehgge4u79jp0u7e46473va8v3j7qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
